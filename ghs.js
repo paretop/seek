@@ -2,7 +2,7 @@
 
 [rewrite_local]
 
-^https?:\/\/(h5play|10play)\.(snowing|pvlzxh|mqqjrv)\.(xyz|ren|cn|com)/(videos.|watch|static|upload|watch[0-9]+)\/.*\/.*\.m3u8\?auth_key.*$ url script-request-header https://github.com/paretop/seek/blob/main/ghs.js
+^https?:\/\/(h5play|10play|120play)\.(snowing|vcrits|mqqjrv)\.(xyz|ren|cn|com)/(videos.|watch|static|upload|watch[0-9]+)\/.*\/.*\.m3u8\?auth_key.*$ url script-request-header https://github.com/paretop/seek/blob/main/ghs.js
 
 [mitm] 
 
