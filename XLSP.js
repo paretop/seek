@@ -3,7 +3,7 @@
 [rewrite_local]
 
 
-^https?:\/\/(120play|10play)\.(snowing|beibeini3)\.(ren|cn)/(videos.|watch|static|upload|watch[0-9]+)\/.*\/.*\.m3u8\?auth_key.*$ url script-request-header https://github.com/paretop/probable-guide/blob/codespace-probable-guide-46g9jjw7q693545/xl.js
+^https?:\/\/(120play|10play)\.(snowing|beibeini3)\.(ren|cn)/(videos.|watch|static|upload|watch[0-9]+)\/.*\/.*\.m3u8\?auth_key.*$ url script-request-header https://github.com/paretop/seek/blob/main/XLSP.js
 
 [mitm] 
 
